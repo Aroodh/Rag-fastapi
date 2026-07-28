@@ -1,0 +1,6 @@
+.venv/
+venv/
+    
+.env
+Rag/.env
+vector_db/
